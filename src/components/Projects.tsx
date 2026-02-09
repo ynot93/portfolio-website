@@ -13,7 +13,7 @@ const projects = [
       'Designed a robust API layer for seamless JNI-adjacent integration with mobile clients.',
       'Optimized database queries to handle concurrent requests from 10k+ active network nodes.'
     ],
-    link: '#' // Add link if available
+    link: 'https://github.com/techtitan-ke/syokinet-manager'
   },
   {
     title: 'Fantasy Fusion: Real-Time Data Engine',
@@ -24,7 +24,7 @@ const projects = [
       'Developed a custom caching layer to reduce external API overhead by 60%.',
       'Engineered a reactive state-management system to ensure UI-consistency across data-heavy dashboards.'
     ],
-    link: '#' 
+    link: 'https://github.com/ynot93/Fantasy-Fusion' 
   },
   {
     title: 'EduAdapt: Intelligent System Architecture',
